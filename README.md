@@ -1,4 +1,4 @@
-# Madou 2 3 english patch
+# Madou 2-3 english patch
 An english patch for Madou Monogatari 2 and 3 by Compile<br>
 <br>
 Here are instructions and some notes for playing.<br>
