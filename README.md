@@ -20,6 +20,9 @@ Or in short:<br>
 ## --Playing--<br>
 To play the game, you will need to insert the system disk into the first floppy disk drive(FDD1)
 and the sampling disk into the second floppy disk drive(FDD2) and as long as everything is okay, it will work.<br>
+<br>
+For emulation, i reccommend using Neko Project 2, as it's the emulator i used in testing. 
+Emulation settings can be kept default, but you can probably tweak them for a better experience.
 
 ## --Saving--<br>
 To save the game, you will need a separate floppy disk image as a data disk, any image will work.
