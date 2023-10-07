@@ -14,7 +14,7 @@ Or in short:<br>
 1) Take a backup of the Madou system disk(s).
 2) Extract the necessary files from the Madou system disk(s).
 3) Download the patch files [here](https://github.com/Blst34/Madou-2-3-English-Patch/releases/).
-4) Patch the extracted files with a patcher tool.
+4) Patch the extracted files with a patcher tool [like this one](https://www.marcrobledo.com/RomPatcher.js/).
 5) Import the patched files back into the Madou system disk(s).
 
 ## --Playing--<br>
