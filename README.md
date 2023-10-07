@@ -22,4 +22,12 @@ after you have all that, to save or load, you will need to swap out the sampling
 after you've saved or loaded, swap it back with the sampling disk.
 
 ## !!--Important--!!<br>
-Because this is a little rushed, there are issues, so if you can, report them.
+Because this is a little rushed, there are issues, so if you can, report them.<br>
+
+### --Known issues--<br>
+Several pieces of text are a little weird. (especially the text for getting an item drop from enemies, which is like "enemy Ha item Dropped a")<br>
+
+## --Special thanks--<br>
+Special thanks to madoh_jinx for playtesting on real hardware and helping in general. https://twitter.com/madoh_jinx<br>
+<br>
+<br>
