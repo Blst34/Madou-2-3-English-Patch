@@ -35,6 +35,7 @@ Because this is a little rushed, there are issues, so if you can, please report 
 
 ### --Known issues--<br>
 Several pieces of text are a little weird. (especially the text for getting an item drop from enemies, which is like "enemy Ha item Dropped a")<br>
+Names of areas on the map screen are messy.<br>
 
 ## --Special thanks--<br>
 Special thanks to madoh_jinx for playtesting on real hardware and helping in general. https://twitter.com/madoh_jinx<br>
