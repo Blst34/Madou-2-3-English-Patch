@@ -9,13 +9,14 @@ To patch the game, you will need to take out the files (same filenames as the fi
 with it, take the files out from your respective Madou system disk image (example: madou 2 system disk)
 patch them with the English patches, and with the Disk Explorer tool, import them back in, preferrably to a spare copy
 of the system disk image, just in case.<br>
-
 Or in short:<br>
 1) Take a backup of the Madou system disk(s).
 2) Extract the necessary files from the Madou system disk(s).
 3) Download the patch files [here](https://github.com/Blst34/Madou-2-3-English-Patch/releases/).
 4) Patch the extracted files with a patcher tool [like this one](https://www.marcrobledo.com/RomPatcher.js/), if it doesn't work, you can also use [this](https://www.romhacking.net/utilities/598/).
-5) Import the patched files back into the Madou system disk(s).
+5) Import the patched files back into the Madou system disk(s).<br>
+
+If you want to update without downloading everything again, you can install the individual patches above under the code section.
 
 ## --Playing--<br>
 To play the game, you will need to insert the system disk into the first floppy disk drive(FDD1)
